@@ -4,10 +4,6 @@ This repository showcases the implementation of a database use case using both r
 ## 📁 Content Overview
 
 
-Here's a clean, short `README.md` style entry based on the script you shared — summarizing **TP6** and the new **Operations & Loans Insertion + Queries** script.
-
----
-
 ## MongoDB_QUERY
 
 ### Title: Advanced Object-Relational Features in Oracle SQL
